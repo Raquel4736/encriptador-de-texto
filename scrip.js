@@ -36,9 +36,4 @@ function desencriptar(stringDesencriptada){
     }
     return stringDesencriptada;
     }
-    function copiar(){
-        let copia=document.querySelector("campo_texto")
-        copia.select();
     
-       
-    }
